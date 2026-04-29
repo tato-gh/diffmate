@@ -1,0 +1,8 @@
+/_build/
+/deps/
+/doc/
+/cover/
+/erl_crash.dump
+/bin/*.escript
+
+.codex
